@@ -35,7 +35,7 @@ def process_all_slope_files(input_directory, output_directory, color_table_path)
 # Step 1: Specify directories and call the function to process all slope files
 input_directory = "./sloped"  # Directory containing the slope .tif files
 output_directory = "./painted"  # Directory to save the colorized .tif files
-color_table_path = "color_table.txt"  # Path to the color table
+color_table_path = "colors.txt"  # Path to the color table
 
 # Process all slope files and apply color relief
 process_all_slope_files(input_directory, output_directory, color_table_path)
