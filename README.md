@@ -26,7 +26,7 @@ Goal of research getting elevation data from mapbox tiles and create avalanche r
 ![mapbox-terrain-dem-v1-14zoom](img/tile_mapbox_mapbox-terrain-dem-v1_14zoom_8816_5744_8bit_geotiff_slope_painted.tif)  
 ![mapbox_terrain-rgb-14zoom](img/tile_mapbox_terrain-rgb_14zoom_8816_5744_8bit_geotiff_slope_painted.tif)  
 ![mapbox_terrain-rgb-15zoom](img/tile_mapbox_terrain-rgb_15zoom_17632_11488_8bit_geotiff_slope_painted.tif)  
-![mapbox_terrain-rgb-16zoom](tile_mapbox_terrain-rgb_16zoom_35264_22976_8bit_geotiff_slope_painted.tif)  
+![mapbox_terrain-rgb-16zoom](img/tile_mapbox_terrain-rgb_16zoom_35264_22976_8bit_geotiff_slope_painted.tif)  
 
 
 ## Mapbox docs
