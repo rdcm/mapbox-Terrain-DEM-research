@@ -22,14 +22,8 @@ share/
 *.swo
 ~*
 
-# Outputs (GeoTIFFs, etc.)
-*.tif
-*.tiff
-*.png
-*.jpg
-*.geojson
-
 .env
-./colorized
-./tiles
-./output_slope
+tiles/*
+sloped/*
+painted/*
+converted/*
