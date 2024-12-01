@@ -1,0 +1,8 @@
+requests
+numpy
+pillow
+rasterio
+matplotlib
+black
+gdal
+python-dotenv

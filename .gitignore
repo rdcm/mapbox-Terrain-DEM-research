@@ -1,0 +1,35 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+pyvenv.cfg
+# Virtual environment
+bin/
+lib/
+share/
+*.env
+
+# Logs
+*.log
+
+# macOS system files
+.DS_Store
+
+# Rasterio auxiliary files
+*.aux.xml
+
+# Temporary or swap files
+*.swp
+*.swo
+~*
+
+# Outputs (GeoTIFFs, etc.)
+*.tif
+*.tiff
+*.png
+*.jpg
+*.geojson
+
+.env
+./colorized
+./tiles
+./output_slope
